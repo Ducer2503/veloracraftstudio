@@ -35,14 +35,12 @@ class ShoppingCart {
                 price: 24.99,
                 salePrice: 19.99,
                 images: [
-                    "Products/1/01 Bunny Crochet 01 (1).png",
-                    "Products/1/01 Bunny Crochet 01 (2).png",
-                    "Products/1/01 Bunny Crochet 01 (3).png",
-                    "Products/1/01 Bunny Crochet 01 (4).png",
-                    "Products/1/01 Bunny Crochet 01 (5).png",
-                    "Products/1/01 Bunny Crochet 01 (6).png",
-                    "Products/1/01 Bunny Crochet 01 (7).png",
-                    "Products/1/01 Bunny Crochet 01 (8).png"
+                    "Products/1/variant-image-1.jpeg",
+                    "Products/1/variant-image-2.jpeg",
+                    "Products/1/variant-image-3.jpeg",
+                    "Products/1/variant-image-4.jpeg",
+                    "Products/1/variant-image-5.jpeg",
+                    "Products/1/variant-image-6.jpeg"
                 ],
                 description: "Adorable handmade bunny crochet toy, perfect for children and collectors. Made with premium cotton yarn and child-safe materials.",
                 variants: {
@@ -59,7 +57,12 @@ class ShoppingCart {
                 price: 22.99,
                 salePrice: null,
                 images: [
-                    "Products/2/01 Bunny Crochet 01 (8).png"
+                    "Products/5/variant-image-1.jpeg",
+                    "Products/5/variant-image-2.jpeg",
+                    "Products/5/variant-image-3.jpeg",
+                    "Products/5/variant-image-4.jpeg",
+                    "Products/5/variant-image-5.jpeg",
+                    "Products/5/variant-image-6.jpeg",
                 ],
                 description: "Soft and cuddly cotton bunny toy, handmade with love. Perfect companion for your little one.",
                 variants: {
@@ -76,14 +79,12 @@ class ShoppingCart {
                 price: 29.99,
                 salePrice: 24.99,
                 images: [
-                    "Products/3/01 Bunny Crochet 01 (1).png",
-                    "Products/3/01 Bunny Crochet 01 (2).png",
-                    "Products/3/01 Bunny Crochet 01 (3).png",
-                    "Products/3/01 Bunny Crochet 01 (4).png",
-                    "Products/3/01 Bunny Crochet 01 (5).png",
-                    "Products/3/01 Bunny Crochet 01 (6).png",
-                    "Products/3/01 Bunny Crochet 01 (7).png",
-                    "Products/3/01 Bunny Crochet 01 (8).png"
+                    "Products/3/variant-image-1.jpeg",
+                    "Products/3/variant-image-2.jpeg",
+                    "Products/3/variant-image-3.jpeg",
+                    "Products/3/variant-image-4.jpeg",
+                    "Products/3/variant-image-5.jpeg",
+                    "Products/3/variant-image-6.jpeg",
                 ],
                 description: "Colorful rainbow bunny toy with vibrant colors and soft texture. A cheerful addition to any collection.",
                 variants: {
@@ -100,14 +101,12 @@ class ShoppingCart {
                 price: 35.99,
                 salePrice: null,
                 images: [
-                    "Products/4/01 Bunny Crochet 01 (1).png",
-                    "Products/4/01 Bunny Crochet 01 (2).png",
-                    "Products/4/01 Bunny Crochet 01 (3).png",
-                    "Products/4/01 Bunny Crochet 01 (4).png",
-                    "Products/4/01 Bunny Crochet 01 (5).png",
-                    "Products/4/01 Bunny Crochet 01 (6).png",
-                    "Products/4/01 Bunny Crochet 01 (7).png",
-                    "Products/4/01 Bunny Crochet 01 (8).png"
+                    "Products/4/variant-image-1.jpeg",
+                    "Products/4/variant-image-2.jpeg",
+                    "Products/4/variant-image-3.jpeg",
+                    "Products/4/variant-image-4.jpeg",
+                    "Products/4/variant-image-5.jpeg",
+                    "Products/4/variant-image-6.jpeg",
                 ],
                 description: "Deluxe handmade bunny with premium materials and intricate details. Perfect for collectors and special gifts.",
                 variants: {
@@ -124,14 +123,12 @@ class ShoppingCart {
                 price: 18.99,
                 salePrice: 14.99,
                 images: [
-                    "Products/5/01 Bunny Crochet 01 (1).png",
-                    "Products/5/01 Bunny Crochet 01 (2).png",
-                    "Products/5/01 Bunny Crochet 01 (3).png",
-                    "Products/5/01 Bunny Crochet 01 (4).png",
-                    "Products/5/01 Bunny Crochet 01 (5).png",
-                    "Products/5/01 Bunny Crochet 01 (6).png",
-                    "Products/5/01 Bunny Crochet 01 (7).png",
-                    "Products/5/01 Bunny Crochet 01 (8).png"
+                    "Products/5/variant-image-1.jpeg",
+                    "Products/5/variant-image-2.jpeg",
+                    "Products/5/variant-image-3.jpeg",
+                    "Products/5/variant-image-4.jpeg",
+                    "Products/5/variant-image-5.jpeg",
+                    "Products/5/variant-image-6.jpeg",
                 ],
                 description: "Gentle and soft baby bunny toy, specially designed for infants and toddlers. Made with extra soft materials.",
                 variants: {
@@ -148,14 +145,12 @@ class ShoppingCart {
                 price: 27.99,
                 salePrice: null,
                 images: [
-                    "Products/6/01 Bunny Crochet 01 (1).png",
-                    "Products/6/01 Bunny Crochet 01 (2).png",
-                    "Products/6/01 Bunny Crochet 01 (3).png",
-                    "Products/6/01 Bunny Crochet 01 (4).png",
-                    "Products/6/01 Bunny Crochet 01 (5).png",
-                    "Products/6/01 Bunny Crochet 01 (6).png",
-                    "Products/6/01 Bunny Crochet 01 (7).png",
-                    "Products/6/01 Bunny Crochet 01 (8).png"
+                    "Products/6/variant-image-1.jpeg",
+                    "Products/6/variant-image-2.jpeg",
+                    "Products/6/variant-image-3.jpeg",
+                    "Products/6/variant-image-4.jpeg",
+                    "Products/6/variant-image-5.jpeg",
+                    "Products/6/variant-image-6.jpeg",
                 ],
                 description: "Elegant and sophisticated bunny toy with classic design. Perfect as a decorative piece or thoughtful gift.",
                 variants: {
